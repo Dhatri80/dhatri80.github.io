@@ -1,0 +1,15 @@
+japanese translation - done
+drop-down menu - done
+change the 3rd slide image - done
+parallax scroll - done
+smaller call to action section - done
+separators between sections - done
+bigger font for the error messages in the contact form - done
+navigation buttons for both testimonial & clients section - done
+add more clients - done 
+press-coverage section should dynamically draw entries from the database - done 
+light up effect for the press-coverage section - done
+darker colours press-coverage section - done
+background image in the contact us page - done
+document & application request buttons (fixed) - done
+repeat animations - done
